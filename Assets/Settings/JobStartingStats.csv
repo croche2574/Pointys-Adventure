@@ -1,0 +1,6 @@
+﻿Name,MHP,MAP,ATK,DEF,GRASS,FIRE,WATER
+Pointy,50,20,10,10,0,0,0
+Spider,80,20,30,10,0,0,0
+Slime,50,10,15,15,0,0,0
+BurningEnt,200,40,60,30,0,0,0
+Mushroom,80,25,20,20,0,0,0
